@@ -1,6 +1,6 @@
 # 📘 EduTech AI – Official Organization
 
-![EduTech AI Banner](https://edutech-ai/edutech-ai/images/banner-edutech-basic.png)
+![EduTech AI Banner](../images/Edutech.svg)
 
 **EduTech AI** là nền tảng hỗ trợ giáo viên, trung tâm và trường học tạo đề thi, giáo án, slide và học liệu bằng AI.
 
