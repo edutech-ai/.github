@@ -2,13 +2,13 @@
 
 ![EduTech AI Banner](../images/Edutech.svg)
 
-**EduTech AI** là nền tảng hỗ trợ giáo viên, trung tâm và trường học tạo đề thi, giáo án, slide và học liệu bằng AI.
+**EduTech AI** là nền tảng hỗ trợ giáo viên, trung tâm và trường học tạo đề và chấm bài thi, giáo án và học liệu bằng AI.
 
 ---
 
 ## 📂 Repositories
 
-- **edutech-fe** – Frontend (Next.js)
+- **[edutech-fe](https://github.com/edutech-ai/edutech-fe)** – Frontend (Next.js)
 - **edutech-api** – Backend chính
 - **edutech-ai-service** – Python AI service
 - **edutech-devops** – CI/CD & Infrastructure
@@ -24,7 +24,7 @@ Xây dựng hệ sinh thái EdTech hiện đại, thông minh và tối ưu cho 
 
 ## 📞 Liên hệ
 
-- **Email:** eduteachteam@com.com  
+- **Email:** eduteachteam.work@gmail.com  
 - **Website:** https://edutechai.vn  
 - **Facebook:** https://facebook.com/edutechai  
 
