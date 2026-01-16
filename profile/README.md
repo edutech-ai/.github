@@ -1,4 +1,4 @@
-# 📘 EduTech AI – Official Organization
+# 📘 EduTech AI – Official Organization 
 
 ![EduTech AI Banner](../images/Edutech.svg)
 
