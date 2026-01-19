@@ -25,7 +25,7 @@ Xây dựng hệ sinh thái EdTech hiện đại, thông minh và tối ưu cho 
 ## 📞 Liên hệ
 
 - **Email:** eduteachteam.work@gmail.com  
-- **Website:** https://edutechai.vn  
+- **Website:** https://aiedutech.vn  
 - **Facebook:** https://facebook.com/edutechai  
 
 ---
